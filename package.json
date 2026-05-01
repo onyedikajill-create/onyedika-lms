@@ -1,0 +1,17 @@
+{
+  "name": "onyedika-learning-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Learn from the Builder of FORTIS OS - AI, web development, project management, regenerative infrastructure",
+  "author": "Onyedika Michael Ojiaku",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
